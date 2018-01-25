@@ -171,6 +171,10 @@ footer .glyphicon {
     .margin-img {
     margin-top: 0px; 
     }
+    .max-size {
+    max-height: none;
+    max-height: none;
+    }
     .size-map {
         display: none;
     }
@@ -187,6 +191,10 @@ footer .glyphicon {
     }
     .margin-img {
     margin-top: 0px; 
+    }
+    .max-size {
+    max-height: none;
+    max-height: none;
     }
     .size-map {
         display: none;
@@ -219,6 +227,10 @@ footer .glyphicon {
 }
 .margin-img {
     margin-top: 80px; 
+}
+.max-size {
+    max-height: 300px;
+    max-width: 300px;
 }
 .size-map {
     height:400px;
