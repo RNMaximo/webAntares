@@ -168,6 +168,12 @@ footer .glyphicon {
     .margin-sm {
         margin: 0px !important; 
     }
+    .margin-img {
+    margin-top: 0px; 
+    }
+    .size-map {
+        display: none;
+    }
   }
   @media screen and (max-width: 480px) {
     .logo {
@@ -178,6 +184,12 @@ footer .glyphicon {
     }
     .margin-sm {
         margin: 0px !important; 
+    }
+    .margin-img {
+    margin-top: 0px; 
+    }
+    .size-map {
+        display: none;
     }
   }
 #container{
@@ -205,18 +217,18 @@ footer .glyphicon {
 .margin-sm {
     margin: 0px 20px 0px 20px;      
 }
+.margin-img {
+    margin-top: 80px; 
+}
+.size-map {
+    height:400px;
+    width:800px;
+}
 .bg-1 { 
     background-color: #FFF; 
   }
 .bg-2 { 
     background-color: #EEE; 
-}
-
-.sponsorship-img
-{
-	margin-top: 20px;
-	max-height: 200px;
-	max-width: 300px;	
 }
 hr
 {
