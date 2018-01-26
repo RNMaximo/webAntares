@@ -175,10 +175,11 @@ footer .glyphicon {
     .margin-img {
     margin-top: 0px; 
     }
+    /*
     .max-size {
     max-height: none;
     max-height: none;
-    }
+    }*/
     .size-map {
         display: none;
     }
@@ -195,14 +196,14 @@ footer .glyphicon {
     }
     .margin-img {
     margin-top: 0px; 
-    }
+    }/*
     .max-size {
     max-height: none;
     max-height: none;
-    }
+    }*/
     .size-map {
         display: none;
-    }
+    } 
   }
 #container{
     width: 100%;   
