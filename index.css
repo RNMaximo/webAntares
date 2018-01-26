@@ -238,9 +238,9 @@ footer .glyphicon {
     max-width: 290px;
 }
 .size-map {
+    width:100%;
     height:400px;
-    width:800px;
-}
+} 
 .bg-1 { 
     background-color: #FFF; 
   }
