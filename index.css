@@ -2,6 +2,7 @@ body {
   font: 400 15px Lato, sans-serif;
   line-height: 1.8;
   background-color: #111;
+  max-width:100%;
 }
 h2 {
   font-size: 24px;
@@ -95,6 +96,9 @@ h4 {
   margin: 15px 0;
   background-color: #afafaf;
   color: #fff;
+}
+.navbar-default{
+  max-width:100% !important;
 }
 .navbar {
   margin-bottom: 0;
